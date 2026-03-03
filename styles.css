@@ -71,7 +71,7 @@ img {
 
 main a[href^="malito:"]{
   color: #ff5722;
-  font-weight:bold
+  font-weight:bold;
 }
 
 
